@@ -32,7 +32,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "apollo-datasource": "^0.6.4",
-    "apollo-server": "^2.9.16",
+    "apollo-server": "^2.25.4",
     "apollo-server-caching": "^0.5.1",
     "datasource-sql": "^1.1.0",
     "graphql": "^14.5.8",
